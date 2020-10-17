@@ -1,0 +1,1 @@
+document.getElementById("logo").children[0].className += "load";
