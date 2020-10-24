@@ -5,5 +5,26 @@
     background-size: cover;
     background-position: center;
 }
+.architect_background{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background: url("../images/architecture_background.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.interior_background{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background: url("../images/interior_background.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.exterior_background{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background: url("../images/exterior_background.jpg");
+    background-size: cover;
+    background-position: center;
+}
 
 
