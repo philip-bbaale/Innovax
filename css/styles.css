@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,600;0,900;1,700&family=Roboto:ital,wght@0,400;1,700;1,900&display=swap');
+body{
+    font-family: 'Nunito Sans', sans-serif;
+}
 .landing{
     padding-top: 5%;
     padding-bottom: 5%;
@@ -8,7 +12,7 @@
 .architect_background{
     padding-top: 5%;
     padding-bottom: 5%;
-    background: url("../images/architecture_background.jpg");
+    background: url("../images/architecture_design.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -26,5 +30,15 @@
     background-size: cover;
     background-position: center;
 }
+#architecture p{
+    font-size: 25px;
+}
+#interior p{
+    font-size: 25px;
+}
+#exterior p{
+    font-size: 25px;
+}
+
 
 
