@@ -9,6 +9,9 @@ body{
     background-size: cover;
     background-position: center;
 }
+.inovative_text{
+    text-shadow: 2px 2px 4px #000000;
+}
 .architect_background{
     padding-top: 5%;
     padding-bottom: 5%;
